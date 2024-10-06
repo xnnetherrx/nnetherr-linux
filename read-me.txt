@@ -1,0 +1,18 @@
+# * ------------------------------ * #
+# !  NNETHERR LINUX CONFIGURATION  ! #
+# * ------------------------------ * #
+
+# * ------------------------------------------------ * #
+# contains ALL settings and package specificatications #
+# to setup my personal linux configurations.           #
+# * ------------------------------------------------ * #
+
+# * ------------------------------ * #
+# ! Current List of Configurations ! #
+# * ------------------------------ * #
+#                                    #
+#   1. Arch Linux (Professional)     #
+#                                    #
+# * ------------------------------ * #
+
+# Last Updated: 10/5/2024 #
